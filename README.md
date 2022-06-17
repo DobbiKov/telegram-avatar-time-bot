@@ -1,5 +1,5 @@
 # Telegram avatar time bot
-This scripts is sets actual time on your avatar in telegram.
+This scripts sets actual time on your avatar in telegram.
 
 ## Instalation
   1. Be sure that you have python 3.6+, in oreder to successfully run your code. You can find out your version by command: `python -V`.
